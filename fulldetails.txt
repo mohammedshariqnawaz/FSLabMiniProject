@@ -1,0 +1,4 @@
+Heritage Estate|1002,12th block,Puttenhalli,Yelahanka ,Bangalore|1426|9000000|Mohan|Rent|
+N G Nilaya|16th cross, 5th main road , Malleswaram,Bangalore|1400|8000000|Nitesh|Resale|
+Mat house|4th cross, Matikere,Bangalore|1200|100000000|Fahad|Sale|
+Manshion|asd|123|2000000|asd|asd|
